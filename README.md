@@ -22,3 +22,6 @@ $ brew untap nchgroup/fingcli
 $ brew update
 $ brew upgrade fingcli
 ```
+
+# References
+* https://github.com/Homebrew/homebrew-cask/blob/15c82788506089c2d1686097c422ec8d41a8fc3b/Casks/f/fing-cli.rb
