@@ -1,4 +1,4 @@
-# homebrew-fing
+# homebrew-fingcli
 homebrew format of nchgroup/fingcli
 
 ## Installation
